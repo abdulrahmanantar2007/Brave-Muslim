@@ -1,0 +1,64 @@
+body {
+    background: rgb(20,20,20);
+    color: white;
+    margin: 0;
+}
+.Top {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 1.9%;
+}
+.Right {
+    display: flex;
+    align-items: center;
+    padding-right: 10px;
+    gap: 5px;
+}
+.Right img {
+    width: 30px;
+}
+.Left img {
+    width: 25px;
+}
+.Left a {
+    background: #522020;
+    display: flex;
+    align-items: center;
+    padding: 0 20px;
+    margin: 10px 0 0 10px;
+    color: white;
+    gap: 5px;
+    text-decoration: none;
+    border: none;
+    border-radius: 50px;
+}
+.Left a:hover {
+    background: #402020;
+}
+.Page img {
+    border-radius: 20px;
+    width: 80%;
+}
+.IBox {
+    text-align: center;
+}
+ul {
+    font-size: 100%;
+    padding-right: 12%;
+}
+.Android-About {
+    padding-right: 1%;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.Android-About a {
+    text-decoration: none;
+    color: #3ea72f;
+}
+.Android-About a:hover {
+    text-decoration: underline;
+}
+.Android-About img {
+    width: 20px;
+}
