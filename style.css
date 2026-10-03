@@ -70,7 +70,7 @@ body {
     background: rgb(70,80,70);
     border-radius: 20px;
     padding: 0 10px;
-    width: 340px;
+    width: 345px;
     margin-bottom: 10px;
     overflow-wrap: anywhere;
 }
@@ -78,7 +78,7 @@ body {
     background: #303030;
     padding: 10px 10px 10px 0;
     border-radius: 20px;
-    width: 97%;
+    width: 98%;
     overflow-x: auto;
     scrollbar-width: none;
 }
